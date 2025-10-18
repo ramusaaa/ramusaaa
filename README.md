@@ -21,6 +21,7 @@
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ramusa) 
   [![Sponsor](https://img.shields.io/badge/Sponsor-%23EA4AAA.svg?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/ramusaaa)
+## The music I'm listening to right now
 
-  
+  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=fbjsi9gt9up2c5mjjmhfslrxh&count={count})
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
