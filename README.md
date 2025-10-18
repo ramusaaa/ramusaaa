@@ -23,5 +23,5 @@
   [![Sponsor](https://img.shields.io/badge/Sponsor-%23EA4AAA.svg?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/ramusaaa)
 ## The music I'm listening to right now
 
-  ![Spotify Now Playing](https://novatorem-git-main-ramusaaas-projects.vercel.app/api/spotify)
+  ![Spotify Now Playing](https://novatorem-ramusaaas-projects.vercel.app/api/spotify)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
