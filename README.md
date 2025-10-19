@@ -21,7 +21,4 @@
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ramusa) 
   [![Sponsor](https://img.shields.io/badge/Sponsor-%23EA4AAA.svg?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/ramusaaa)
-## The music I'm listening to right now
-
-  ![Spotify Now Playing](https://novatorem-ramusaaas-projects.vercel.app/api/spotify)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
